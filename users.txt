@@ -1,0 +1,4 @@
+Name, Age, Email
+Parth, 21, parth@gmail.com
+Aman, 22, aman@gmail.com
+Riya, 20, riya@gmail.com
