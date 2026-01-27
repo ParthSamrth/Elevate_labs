@@ -21,7 +21,7 @@ This task was part of my **Python Developer Internship** to understand how real 
 | [`file_handling_task.py`](./file_handling_task.py) | Python program for TXT and CSV operations |
 | [`users.txt`](./users.txt) | Text file storing user data |
 | [`students.csv`](./students.csv) | CSV file storing student records |
-| [`README.md`](./README.md) | Project explanation |
+| [`README.md`](./file_handling_task.md) | Project explanation |
 ---
 ## 🔹 TXT File Operations
 The program performs:
